@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
+gem "jekyll", "~> 4.4.1"
+gem "jekyll-theme-minimal"
+
 # Specify the Jekyll version you want (adjust as needed)
 gem "jekyll", "~> 4.2"
 
